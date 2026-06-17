@@ -14,9 +14,8 @@ PYTHON    = sys.executable
 
 # ── VCS DEPLOYMENT METADATA ──────────────────────────────────────────────────
 CURRENT_VERSION   = "2.0.0"
-# Replace these URLs with your real remote GitHub file locations
-VERSION_CHECK_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/version.json"
-APPROVED_KEYS_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/whitelist.json"
+VERSION_CHECK_URL = "https://raw.githubusercontent.com/Akshay-SIFY/iTest-Examination-Operations-Hub/main/version.json"
+APPROVED_KEYS_URL = "https://raw.githubusercontent.com/Akshay-SIFY/iTest-Examination-Operations-Hub/main/whitelist.json"
 
 TOOLS = [
     {
